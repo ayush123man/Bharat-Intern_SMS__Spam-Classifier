@@ -1,4 +1,4 @@
-# Bharat-Intern__SMS__Spam-Classifier
+# Bharat-Intern,SMS__Spam-Classifier
 The "SMS Spam Classifier" project is designed to create a smart system that can distinguish between spam and legitimate text messages. It does this by using advanced computer techniques to understand the language of the messages. By doing this, it helps users avoid unwanted or potentially harmful messages, making their communication experience safer and more efficient.
 
 To start, the project loads a dataset containing both spam and non-spam messages and prepares it for analysis. It converts the labels indicating whether a message is spam or not into a format that the computer can understand for training purposes. Then, it transforms the text of the messages into numbers, which allows the computer to analyze them effectively.
